@@ -1,11 +1,11 @@
-About r-foci
-============
+About r-foci-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-foci-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=FOCI
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-foci-feedstock/blob/main/LICENSE.txt)
 
 Summary: Feature Ordering by Conditional Independence (FOCI) is a variable selection algorithm based on the measure of conditional dependence. For more information, see the paper: Azadkia and Chatterjee (2019),"A simple measure of conditional dependence" <arXiv:1910.12327>.
 
